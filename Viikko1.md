@@ -3,6 +3,6 @@
 ### Tehtävä 1
 SELECT * FROM taulu WHERE kentta = 'arvo'
 
-![kuvakaappaus](screenshot1.png)
+![kuvakaappaus](viikko1.1.png)
 
 
