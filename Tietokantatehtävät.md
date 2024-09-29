@@ -135,10 +135,6 @@ select country.name
 
 
 
-# Viikko 3
-
-
-### Tehtävä 1
 
 
 
