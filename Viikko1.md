@@ -3,7 +3,7 @@
 ### Tehtävä 1
 SELECT * FROM taulu WHERE kentta = 'arvo'
 
-![kuvakaappaus](viikko1.1.png)
+![kuvakaappaus](viikko1teht1.png)
 
 
 # Viikko 2
