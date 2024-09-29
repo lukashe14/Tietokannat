@@ -134,7 +134,7 @@ select country.name
 ![kuvakaappaus](Viikko2Teht2.10.png)
 
 
-
+![kuvakaappaus](Viikko1Teht.png)
 
 
 
