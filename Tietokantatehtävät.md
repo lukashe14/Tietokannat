@@ -3,7 +3,7 @@
 ### Tehtävä 1
 
 
-![kuvakaappaus](viikko1teht1.png)
+![kuvakaappaus](viikko1teht.png)
 
 
 # Viikko 2
